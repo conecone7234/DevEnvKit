@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.env.windows": {
+        "Path": "${workspaceFolder}\\mingw64\\bin;${env:Path}"
+    },
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
