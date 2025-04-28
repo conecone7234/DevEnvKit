@@ -1,0 +1,10 @@
+{
+    // VSCode におすすめする拡張機能
+    "recommendations": [
+        "ms-python.python", // Python 拡張本体
+        "ms-python.vscode-pylance", // 高速な型解析・補完
+        "ms-python.autopep8", // autopep8 フォーマッター
+        "ms-python.debugpy", // Python デバッグサポート
+        // "ms-toolsai.jupyter", // Jupyter Notebook サポート
+    ]
+}
